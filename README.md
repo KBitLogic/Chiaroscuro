@@ -1,6 +1,6 @@
 ﻿# ⚫ **Chiaroscuro** ⚪
 
-## ⚪ A Modern Thematic Suite for Visual Studio 2022 ⚫
+## ⚪ A Modern Thematic Suite ⚫
 
 ***Chiaroscuro** - the interplay of light and shadow to emphasize volume and emotion*
 
@@ -26,7 +26,7 @@
 
 ---
 
-![Chiaroscuro Photo](./ChiaroscuroPreview01.jpg)
+![Developer Window](./ChiaroscuroPreview01.jpg)
 
 ---
 
