@@ -10,7 +10,7 @@
 
 ![Start Menu Preview](./ChiaroscuroPreview00.jpg)
 
-#### *A carefully curated color palette to reduce eye strain.*
+> #### *A carefully curated color palette to reduce eye strain.*
 
 ![Developer Window Preview](./ChiaroscuroPreview01.jpg)
 
