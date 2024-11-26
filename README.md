@@ -39,7 +39,7 @@
 #### Backlog
 
 - **More** themes!
-  - **Light**-ish Mode for Light Mode Converts
+  - **Light**-ish Mode for the Light Mode Fans
   - **High Contrast** Modes
   - **Accessibility** for Vision-Impaired
 
