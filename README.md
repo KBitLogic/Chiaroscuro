@@ -1,22 +1,12 @@
 ﻿# ⚫ *Chiaroscuro* ⚪
 
-## A Modern Thematic Suite
+## A Modern Dark Theme for Visual Studio 2022
 
 **Chiaroscuro** - *the interplay of light and shadow to emphasize volume and illustrate emotion*
 
 ---
 
 ### Coding in *Chiaroscuro*. . .
-
-#### Efficient and Elegant
-
-- There's **undeniable beauty** in *simplicity*
-
-#### Modest Design, Maximum Clarity
-
-- The color palette is *tediously hand-picked* with **love** using the SDK Color Editor
-
----
 
 ![Start Menu Preview](./ChiaroscuroPreview00.jpg)
 
