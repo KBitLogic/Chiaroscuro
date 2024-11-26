@@ -10,7 +10,7 @@
 
 ![Start Menu Preview](./ChiaroscuroPreview00.jpg)
 
-> #### *A carefully curated color palette to reduce eye strain.*
+> #### *A carefully curated color palette to reduce eye-strain.*
 
 ![Developer Window Preview](./ChiaroscuroPreview01.jpg)
 
@@ -61,7 +61,7 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ![Syntax Preview](./ChiaroscuroPreview02.jpg)
 
-#### *Elegance. Efficiency. There's beauty in simplicity.*
+> #### *Elegance. Efficiency. There's beauty in simplicity.*
 
 ![Debug Mode Preview](./ChiaroscuroPreview03.jpg)
 
