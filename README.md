@@ -10,7 +10,7 @@ The journey to conquer every single color token has just begun. . .
 
 ---
 
-> Coding in *Chiaroscuro*. . .
+> *Coding in Chiaroscuro. . .*
 
 ![Start Menu Preview](./ChiaroscuroPreview00.jpg)
 
@@ -18,7 +18,7 @@ The journey to conquer every single color token has just begun. . .
 
 ![Developer Window Preview](./ChiaroscuroPreview01.jpg)
 
-> Enhance your environment. Work in comfort.
+> *Enhance your environment. Work in comfort.*
 
 ---
 
@@ -63,7 +63,7 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ---
 
-> Clarity Through Contrast. . .
+> *Clarity Through Contrast. . .*
 
 ![Syntax Preview](./ChiaroscuroPreview02.jpg)
 
@@ -71,7 +71,7 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ![Debug Mode Preview](./ChiaroscuroPreview03.jpg)
 
-> Lose yourself in the flow.
+> *See your work in a new light.*
 
 ---
 
