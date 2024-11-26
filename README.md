@@ -56,6 +56,6 @@ Have feedback or suggestions for *Chiaroscuro*? I would love to hear it. Please,
 
 ---
 
-###### ⚪ *Shadows Illuminate - Defining the Art of Contrast* ⚫
+###### ⚪ *Embrace the Dark Mode* ⚫
 
 ---
