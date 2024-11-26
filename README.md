@@ -6,6 +6,10 @@
 
 ## A Modern Dark Theme for Visual Studio 2022
 
+My Dark Mode theme is finally seeing the light of day!
+
+---
+
 > Coding in *Chiaroscuro*. . .
 
 ![Start Menu Preview](./ChiaroscuroPreview00.jpg)
