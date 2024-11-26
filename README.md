@@ -2,13 +2,20 @@
 
 ## ⚪ A Modern Thematic Suite ⚫
 
-***Chiaroscuro** - the interplay of light and shadow to emphasize volume and emotion*
+***Chiaroscuro** - the interplay of light and shadow to emphasize volume and emotion.*
 
 ---
 
-### Features
+### Current Features
 
-- ***A free, eye-friendly dark theme** designed to enhance your coding experience in Visual Studio 2022.*
+- ***A free, eye-friendly dark theme** designed to enhance your coding experience.*
+
+### Planned
+
+- *More *themes!**
+  - **Light** Mode
+  - **High Contrast** Modes
+  - **Accessibility** for Vision-Impaired
 
 ---
 
