@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Chiaroscuro.c67288ee-9381-4d9e-b688-a9a9f6a8b56c" Version="0.0.1" Language="en-US" Publisher="KBitLogic" />
+        <Identity Id="Chiaroscuro.1B2ED11A-FDA6-4719-A98A-5A67448F8824" Version="0.0.1" Language="en-US" Publisher="KBitLogic" />
         <DisplayName>Chiaroscuro</DisplayName>
         <Description xml:space="preserve">Embrace the Dark Mode. You will forget time even exists during your long coding sessions. Inspired by the artistic technique of chiaroscuro, this extension aims to provide deep contrasts without straining the eyes.</Description>
         <MoreInfo>https://github.com/KBitLogic/Chiaroscuro</MoreInfo>
