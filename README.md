@@ -42,11 +42,11 @@
 
 ##### ⚪ Installation ⚫
 
-```
+``
 1. **Download** the VSIX file from the Visual Studio Marketplace
 2. **Double-click** the VSIX file to install the theme
 3. **Activate** the theme by going to **Tools > Options > Environment > General** and selecting "Chiaroscuro" from the "Color theme" dropdown menu
-```
+``
 
 ---
 
