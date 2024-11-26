@@ -64,9 +64,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="CHANGELOG.md">
+    <Content Include="CHANGELOG.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    </Content>
     <Content Include="Chiaroscuro.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
