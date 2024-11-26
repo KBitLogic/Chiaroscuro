@@ -10,7 +10,7 @@
 
 #### Efficient and Elegant
 
-- There's **undeniable beauty in simplicity** - let *Chiaroscuro* help you **focus** on what matters most
+- There's **undeniable beauty in simplicity** - let *Chiaroscuro* help you **concentrate** on what matters most
   - With its **modest visuals**, *Chiaroscuro* maximizes **comfort** and **efficiency**, helping you stay **focused** and **energized** for longer
 
 #### Modest Design, Maximum Clarity
