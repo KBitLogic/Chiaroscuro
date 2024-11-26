@@ -52,7 +52,7 @@
 
 ##### ⚫ Community & Contributions ⚪
 
-##### Have feedback or suggestions for *Chiaroscuro*? I would love to hear it - please, join the conversation on the Visual Studio Marketplace or submit a pull request on GitHub.
+Have feedback or suggestions for *Chiaroscuro*? I would love to hear it. Please, join the conversation on the Visual Studio Marketplace or submit a pull request on GitHub.
 
 ---
 
