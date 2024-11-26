@@ -12,10 +12,6 @@
 
 ---
 
-> **Crafted with care for Visual Studio 2022**
-
----
-
 ### ⚫ Why Choose Chiaroscuro? ⚪
 
 #### Efficient and Elegant
