@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Chiaroscuro.c67288ee-9381-4d9e-b688-a9a9f6a8b56c" Version="0.1" Language="en-US" Publisher="KBitLogic" />
+        <Identity Id="Chiaroscuro.c67288ee-9381-4d9e-b688-a9a9f6a8b56c" Version="0.0.1" Language="en-US" Publisher="KBitLogic" />
         <DisplayName>Chiaroscuro</DisplayName>
         <Description xml:space="preserve">An eye-friendly dark theme.</Description>
-        <License>UNLICENSE.txt</License>
+        <License>UNLICENSE</License>
+        <GettingStartedGuide>README.md</GettingStartedGuide>
+        <ReleaseNotes>CHANGELOG.md</ReleaseNotes>
         <Icon>Chiaroscuro128.png</Icon>
         <PreviewImage>ChiaroscuroPreview01.jpg</PreviewImage>
         <Tags>Visual Studio 2022,Theme,Dark,Black,Clean,Minimal,Modern</Tags>
