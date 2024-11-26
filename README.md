@@ -6,7 +6,7 @@
 
 ---
 
-### Why Choose *Chiaroscuro*?
+### Coding in *Chiaroscuro*?
 
 #### Efficient and Elegant
 
