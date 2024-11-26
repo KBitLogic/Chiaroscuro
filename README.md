@@ -29,7 +29,7 @@
 
 #### Current
 
-- A basic **free dark theme** for reference
+- A basic **Dark Mode theme** for reference
 
 #### Planned
 
