@@ -30,8 +30,8 @@
 
 ### Planned
 
-- **Updates* to Main Theme*
-- *More *themes!**
+- ***Updates** to Main Theme*
+- *More **themes!***
   - **Light** Mode
   - **High Contrast** Modes
   - **Accessibility** for Vision-Impaired
