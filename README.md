@@ -2,7 +2,7 @@
 
 ## ⚪ A Modern Thematic Suite ⚫
 
-***Chiaroscuro** - the interplay of light and shadow to emphasize volume and emotion*
+**Chiaroscuro** - *the interplay of light and shadow to emphasize volume and emotion*
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### Current Features
 
-- ***A free, eye-friendly dark theme** designed to enhance your coding experience*
+- **A free, eye-friendly dark theme** *designed to enhance your coding experience*
 
 ### Planned
 
