@@ -35,6 +35,9 @@
 #### Planned
 
 - **Updates** to the *Main Theme*
+
+#### Backlog
+
 - **More** themes!
   - **Light** Mode
   - **High Contrast** Modes
