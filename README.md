@@ -1,28 +1,24 @@
 ﻿# ⚫ *Chiaroscuro* ⚪
 
-## A Modern Thematic Suite
-
-**Chiaroscuro** - *the interplay of light and shadow to emphasize volume and emotion*
+*The use of light and shadow to emphasize volume and illustrate emotion*.
 
 ---
 
-### Why Choose *Chiaroscuro*?
+## Open-Source Themes for Visual Studio 2022
 
-#### Efficient and Elegant
-
-- There's **undeniable beauty in simplicity** - let ***Chiaroscuro*** help you **focus on what matters most**
-  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency,** helping you to stay **focused** and **energized** for those longer coding sessions
-
-#### Modest Design, Maximum Clarity
-
-- **No chaos, just clarity** - The editor window is designed to be **clean and intuitive,** allowing you to concentrate on your code
-  - **Reduced visual clutter** while maintaining valuable information, striking a balance between **clarity** and **simplicity**
+The journey to conquer every single color token has just begun. . .
 
 ---
 
-![Preview Placeholder Alt Text](./ChiaroscuroPreview00.jpg)
+> *Coding in Chiaroscuro. . .*
 
-![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
+![Start Menu Preview](./ChiaroscuroPreview00.jpg)
+
+> *A carefully curated color palette to reduce eye-strain.*
+
+![Developer Window Preview](./ChiaroscuroPreview01.jpg)
+
+> *Enhance your environment. Work in comfort.*
 
 ---
 
@@ -30,13 +26,16 @@
 
 #### Current
 
-- A basic WIP **Dark Mode theme** to build upon
+- A foundational theme to build upon
 
 #### Planned
 
-- **Updates** to the *Main Theme*
+- **Updates** to the *Main Dark Mode Theme*
+
+#### Backlog
+
 - **More** themes!
-  - **Light** Mode
+  - **Light**-ish Mode for the Light Mode Fans
   - **High Contrast** Modes
   - **Accessibility** for Vision-Impaired
 
@@ -44,17 +43,17 @@
 
 ##### Installation
 
-> 1. Download the project from GitHub
-> 2. Build the solution in VS2022
-> 3. Open the VSIX file with Microsoft Visual Studio Version Selector (Right click > Open With)
-> 4. Activate the theme within Visual Studio (Tools > Theme > {Theme Name})
+1. Download the project from GitHub
+2. Build the solution in VS2022
+3. Open the VSIX file with Microsoft Visual Studio Version Selector (Right click > Open With)
+4. Activate the theme within Visual Studio (Tools > Theme > {Theme Name})
 
 ##### Forced Update
 
-> 1. Uninstall the extension via the Visual Studio Extension Manager (Extensions > Manage Extensions)
-> 2. Restart Visual Studio and then close it again
-> 3. Install updated VSIX via instructions above
-> 4. Activate theme via instructions above
+1. Uninstall the extension via the Visual Studio Extension Manager (Extensions > Manage Extensions)
+2. Restart Visual Studio and then close it again
+3. Install updated VSIX via instructions above
+4. Activate theme via instructions above
 
 ##### Default Location
 
@@ -64,16 +63,21 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ---
 
-![Preview Placeholder Alt Text](./ChiaroscuroPreview02.jpg)
+> *Clarity Through Contrast. . .*
 
-![Preview Placeholder Alt Text](./ChiaroscuroPreview03.jpg)
+![Syntax Preview](./ChiaroscuroPreview02.jpg)
+
+> *Elegance. Efficiency. There's beauty in simplicity.*
+
+![Debug Mode Preview](./ChiaroscuroPreview03.jpg)
+
+> *See your work in a new light.*
 
 ---
 
-##### Community & Contributions
+#### Community & Contributions
 
-Have feedback or suggestions for *Chiaroscuro*? I would love to hear it.
-Please, join the conversation or submit a pull request here on GitHub.
+##### Do you have feedback or suggestions for *Chiaroscuro*? Please, join the conversation!
 
 ---
 
