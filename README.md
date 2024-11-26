@@ -6,11 +6,11 @@
 
 ---
 
-### Coding in *Chiaroscuro*. . .
+> ### Coding in *Chiaroscuro*. . .
 
 ![Start Menu Preview](./ChiaroscuroPreview00.jpg)
 
-> #### *A carefully curated color palette to reduce eye-strain.*
+> ### *A carefully curated color palette to reduce eye-strain.*
 
 ![Developer Window Preview](./ChiaroscuroPreview01.jpg)
 
@@ -35,21 +35,21 @@
 
 ---
 
-##### Installation
+#### Installation
 
 1. Download the project from GitHub
 2. Build the solution in VS2022
 3. Open the VSIX file with Microsoft Visual Studio Version Selector (Right click > Open With)
 4. Activate the theme within Visual Studio (Tools > Theme > {Theme Name})
 
-##### Forced Update
+#### Forced Update
 
 1. Uninstall the extension via the Visual Studio Extension Manager (Extensions > Manage Extensions)
 2. Restart Visual Studio and then close it again
 3. Install updated VSIX via instructions above
 4. Activate theme via instructions above
 
-##### Default Location
+#### Default Location
 
 ```
 Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions\{Chiaroscuro}
@@ -57,21 +57,21 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ---
 
-### Clarity Through Contrast. . .
+> ### Clarity Through Contrast. . .
 
 ![Syntax Preview](./ChiaroscuroPreview02.jpg)
 
-> #### *Elegance. Efficiency. There's beauty in simplicity.*
+> ### *Elegance. Efficiency. There's beauty in simplicity.*
 
 ![Debug Mode Preview](./ChiaroscuroPreview03.jpg)
 
 ---
 
-##### Community & Contributions
+#### Community & Contributions
 
 Do you have feedback or suggestions for *Chiaroscuro*? I would love to hear it.
 
-Please, join the conversation or submit a pull request here on GitHub.
+##### Please, join the conversation or submit a pull request here on GitHub.
 
 ---
 
