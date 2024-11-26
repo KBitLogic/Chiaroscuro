@@ -6,19 +6,6 @@
 
 ---
 
-### Current Features
-
-- ***A free, eye-friendly dark theme** designed to enhance your coding experience.*
-
-### Planned
-
-- *More *themes!**
-  - **Light** Mode
-  - **High Contrast** Modes
-  - **Accessibility** for Vision-Impaired
-
----
-
 ### ⚫ Why Choose Chiaroscuro? ⚪
 
 #### Efficient and Elegant
@@ -30,6 +17,19 @@
 
 - **No chaos, just clarity.**  The editor window is designed to be **clean and intuitive,** allowing you to concentrate on your code.
   - **Reduced visual clutter** while maintaining valuable information, striking a balance between **clarity** and **simplicity.**
+
+---
+
+### Current Features
+
+- ***A free, eye-friendly dark theme** designed to enhance your coding experience.*
+
+### Planned
+
+- *More *themes!**
+  - **Light** Mode
+  - **High Contrast** Modes
+  - **Accessibility** for Vision-Impaired
 
 ---
 
