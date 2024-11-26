@@ -16,10 +16,11 @@
 #### Modest Design, Maximum Clarity
 
 - **No chaos, just clarity** - The editor window is designed to be **clean and intuitive,** allowing you to concentrate on your code
-  - **Reduced visual clutter** while maintaining valuable information, striking a balance between **clarity** and **simplicity.**
+  - **Reduced visual clutter** while maintaining valuable information, striking a balance between **clarity** and **simplicity**
 
 ---
 
+![Main Window Preview](./ChiaroscuroPreview01.jpg)
 ![Main Window Preview](./ChiaroscuroPreview01.jpg)
 
 ---
@@ -47,6 +48,11 @@
 2. Double-click the VSIX file to install the theme
 3. Activate the theme by going to Tools > Options > Environment > General and selecting "Chiaroscuro" from the dropdown menu
 ```
+
+---
+
+![Main Window Preview](./ChiaroscuroPreview01.jpg)
+![Main Window Preview](./ChiaroscuroPreview01.jpg)
 
 ---
 
