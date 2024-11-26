@@ -12,7 +12,7 @@
 
 ![Developer Window Preview](./ChiaroscuroPreview01.jpg)
 
-#### Elegance. Efficiency. There's **beauty** in simplicity.
+#### *Elegance. Efficiency. There's beauty in simplicity.*
 
 #### 
 
