@@ -14,8 +14,6 @@
 
 #### *Elegance. Efficiency. There's beauty in simplicity.*
 
-#### 
-
 ---
 
 ### Features
@@ -59,9 +57,13 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ---
 
+### Clarity Through Contrast. . .
+
 ![Syntax Preview](./ChiaroscuroPreview02.jpg)
 
 ![Debug Mode Preview](./ChiaroscuroPreview03.jpg)
+
+#### *A carefully curated color palette to reduce eye strain.*
 
 ---
 
