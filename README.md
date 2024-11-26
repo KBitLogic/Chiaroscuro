@@ -12,7 +12,7 @@
 
 ![Developer Window Preview](./ChiaroscuroPreview01.jpg)
 
-#### *Elegance. Efficiency. There's beauty in simplicity.*
+#### *A carefully curated color palette to reduce eye strain.*
 
 ---
 
@@ -63,7 +63,7 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ![Debug Mode Preview](./ChiaroscuroPreview03.jpg)
 
-#### *A carefully curated color palette to reduce eye strain.*
+#### *Elegance. Efficiency. There's beauty in simplicity.*
 
 ---
 
