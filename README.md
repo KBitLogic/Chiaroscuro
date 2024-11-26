@@ -11,7 +11,7 @@
 #### Efficient and Elegant
 
 - There's **undeniable beauty in simplicity** - let ***Chiaroscuro*** help you **focus on what matters most**
-  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency,** helping you to stay **focused** and **energized** for those longer coding sessions
+  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency,** helping you to stay **focused** and **energized** for those longer coding sessions
 
 #### Modest Design, Maximum Clarity
 
