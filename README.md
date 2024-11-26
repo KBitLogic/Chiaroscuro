@@ -1,12 +1,12 @@
 ﻿# ⚫ *Chiaroscuro* ⚪
 
-## ⚪ A Modern Thematic Suite ⚫
+## A Modern Thematic Suite
 
 **Chiaroscuro** - *the interplay of light and shadow to emphasize volume and emotion*
 
 ---
 
-### ⚫ Why Choose *Chiaroscuro*? ⚪
+### Why Choose *Chiaroscuro*?
 
 #### Efficient and Elegant
 
@@ -40,7 +40,7 @@
 
 ---
 
-##### ⚪ Installation ⚫
+##### Installation
 
 ```
 1. Download the VSIX file from the Visual Studio Marketplace
@@ -50,7 +50,7 @@
 
 ---
 
-##### ⚫ Community & Contributions ⚪
+##### Community & Contributions
 
 Have feedback or suggestions for *Chiaroscuro*? I would love to hear it. Please, join the conversation on the Visual Studio Marketplace or submit a pull request on GitHub.
 
