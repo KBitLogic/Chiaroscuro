@@ -4,16 +4,23 @@
         <Identity Id="Chiaroscuro.c67288ee-9381-4d9e-b688-a9a9f6a8b56c" Version="0.0.1" Language="en-US" Publisher="KBitLogic" />
         <DisplayName>Chiaroscuro</DisplayName>
         <Description xml:space="preserve">Embrace the Dark Mode. You will forget time even exists during your long coding sessions. Inspired by the artistic technique of chiaroscuro, this extension aims to provide deep contrasts without straining the eyes.</Description>
-        <License>UNLICENSE.txt</License>
+        <License>UNLICENSE</License>
         <GettingStartedGuide>README.md</GettingStartedGuide>
         <ReleaseNotes>CHANGELOG.md</ReleaseNotes>
         <Icon>Chiaroscuro128.png</Icon>
         <PreviewImage>ChiaroscuroPreview00.jpg</PreviewImage>
         <Tags>Visual Studio 2022,Theme,Dark,Black,Clean,Minimal,Modern</Tags>
+        <Preview>true</Preview>
     </Metadata>
     <Installation>
-        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Pro">
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Community">
             <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Community">
+            <ProductArchitecture>x86</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Community">
+            <ProductArchitecture>arm64</ProductArchitecture>
         </InstallationTarget>
     </Installation>
     <Dependencies>
