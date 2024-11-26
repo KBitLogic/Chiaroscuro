@@ -11,7 +11,7 @@
 #### Efficient and Elegant
 
 - There's **undeniable beauty in simplicity** - let *Chiaroscuro* help you **focus** on what matters most
-  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency**, helping you stay **focused** and **energized** for longer
+  - With its **modest visuals**, *Chiaroscuro* maximizes **comfort** and **efficiency**, helping you stay **focused** and **energized** for longer
 
 #### Modest Design, Maximum Clarity
 
@@ -75,7 +75,7 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ##### Community & Contributions
 
-Do you have feedback or suggestions for ***Chiaroscuro***? I would love to hear it.
+Do you have feedback or suggestions for *Chiaroscuro*? I would love to hear it.
 Please, join the conversation or submit a pull request here on GitHub.
 
 ---
