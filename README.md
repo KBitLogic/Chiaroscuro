@@ -6,7 +6,7 @@
 
 ---
 
-### Coding in *Chiaroscuro*?
+### Coding in *Chiaroscuro*...
 
 #### Efficient and Elegant
 
