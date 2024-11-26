@@ -29,11 +29,11 @@
 
 #### Current
 
-- **A free, eye-friendly dark theme** *designed to enhance your coding experience*
+- A basic **free dark theme** for reference
 
 #### Planned
 
-- **Updates** to *Main Theme*
+- **Updates** to the *Main Theme*
 - **More** themes!
   - **Light** Mode
   - **High Contrast** Modes
@@ -44,9 +44,10 @@
 ##### Installation
 
 ```
-1. Download the VSIX file from the Visual Studio Marketplace
-2. Double-click the VSIX file to install the theme
-3. Activate the theme by going to Tools > Options > Environment > General and selecting "Chiaroscuro" from the dropdown menu
+1. Download the project from GitHub
+2. Build the solution in VS2022
+3. Open the VSIX file with Microsoft Visual Studio Version Selector (Right click > Open With)
+4. Activate the theme within Visual Studio (Tools > Theme > {Theme Name})
 ```
 
 ---
