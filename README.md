@@ -20,8 +20,8 @@
 
 ---
 
-![Main Window Preview](./ChiaroscuroPreview01.jpg)
-![Main Window Preview](./ChiaroscuroPreview01.jpg)
+![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
+![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
 
 ---
 
@@ -51,8 +51,8 @@
 
 ---
 
-![Main Window Preview](./ChiaroscuroPreview01.jpg)
-![Main Window Preview](./ChiaroscuroPreview01.jpg)
+![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
+![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
 
 ---
 
