@@ -10,13 +10,13 @@
 
 #### Efficient and Elegant
 
-- There's **undeniable beauty in simplicity** - let ***Chiaroscuro*** help you **focus on what matters most.**
-  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency,** helping you to stay **focused** and **energized** for those longer coding sessions.
+- There's **undeniable beauty in simplicity** - let ***Chiaroscuro*** help you **focus on what matters most**
+  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency,** helping you to stay **focused** and **energized** for those longer coding sessions
 
 #### Modest Design, Maximum Clarity
 
-- **No chaos, just clarity.**  The editor window is designed to be **clean and intuitive,** allowing you to concentrate on your code.
-  - **Reduced visual clutter** while maintaining valuable information, striking a balance between **clarity** and **simplicity.**
+- **No chaos, just clarity** - The editor window is designed to be **clean and intuitive,** allowing you to concentrate on your code
+  - **Reduced visual clutter** while maintaining valuable information, striking a balance between **clarity** and **simplicity.**
 
 ---
 
@@ -30,6 +30,7 @@
 
 ### Planned
 
+- **Updates* to Main Theme*
 - *More *themes!**
   - **Light** Mode
   - **High Contrast** Modes
