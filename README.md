@@ -1,6 +1,6 @@
 ﻿# ⚫ *Chiaroscuro* ⚪
 
-*The interplay of light and shadow to emphasize volume and illustrate emotion*.
+*The use of light and shadow to emphasize volume and illustrate emotion*.
 
 ---
 
