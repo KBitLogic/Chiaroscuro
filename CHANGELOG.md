@@ -3,8 +3,15 @@
 ## All notable changes will be documented in this file
 
 ### 2024-11-26
-- #### v0.0.1
-	- ##### KBitLogic started a Visual Studio theme project
-		- ###### Started exploring pkgdef files from other extensions with the Visual Studio Color Editor provided by the VS SDK
-    	- ###### Designed several custom vsthemes with the Visual Studio Theme Designer
-    	- ###### Created a starter theme as a jumping off point and packaged that within a VSIX file
+
+#### v0.0.1
+- KBitLogic started a Visual Studio theme project
+	- Started exploring pkgdef files from other extensions with the Visual Studio Color Editor provided by the VS SDK
+	- Designed several custom vsthemes with the Visual Studio Theme Designer
+	- Created a starter theme as a jumping off point and packaged that within a VSIX file
+
+---
+
+##### "Art is the queen of all sciences communicating knowledge to all the generations of the world." - Leonardo da Vinci
+
+###### From KBitLogic, With Love ❤️
