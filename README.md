@@ -6,7 +6,7 @@
 
 ## A Modern Dark Theme for Visual Studio 2022
 
-My Dark Mode theme is finally seeing the light of day!
+My private Dark Mode theme is finally seeing the light of day!
 
 ---
 
@@ -71,11 +71,9 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ---
 
-##### Community & Contributions
+#### Community & Contributions
 
-Do you have feedback or suggestions for *Chiaroscuro*?
-
-Please, join the conversation or submit a pull request here on GitHub.
+##### Do you have feedback or suggestions for *Chiaroscuro*? Please, join the conversation or submit a pull request here on GitHub
 
 ---
 
