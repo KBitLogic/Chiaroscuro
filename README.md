@@ -20,7 +20,7 @@
 
 ---
 
-![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
+![Preview Placeholder Alt Text](./ChiaroscuroPreview00.jpg)
 ![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
 
 ---
@@ -63,8 +63,8 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ---
 
-![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
-![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
+![Preview Placeholder Alt Text](./ChiaroscuroPreview02.jpg)
+![Preview Placeholder Alt Text](./ChiaroscuroPreview03.jpg)
 
 ---
 
