@@ -52,12 +52,10 @@
 
 ##### Forced Update
 
-```
-1. Uninstall the extension via the Visual Studio Extension Manager (Extensions > Manage Extensions)
-2. Restart Visual Studio and then close it again
-3. Install updated VSIX via instructions above
-4. Activate theme via instructions above
-```
+> 1. Uninstall the extension via the Visual Studio Extension Manager (Extensions > Manage Extensions)
+> 2. Restart Visual Studio and then close it again
+> 3. Install updated VSIX via instructions above
+> 4. Activate theme via instructions above
 
 ---
 
