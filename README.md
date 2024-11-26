@@ -4,9 +4,9 @@
 
 ---
 
-## An Open-Source Dark Theme for Visual Studio 2022
+## Open-Source Themes for Visual Studio 2022
 
-The primary goal I started this project with was to customize every single color token for Visual Studio. It might take me a minute.
+The journey to conquer every single color token has just begun. . .
 
 ---
 
