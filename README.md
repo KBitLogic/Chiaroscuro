@@ -1,10 +1,10 @@
 ﻿# ⚫ *Chiaroscuro* ⚪
 
-## A Modern Dark Theme for Visual Studio 2022
-
-**Chiaroscuro** - *the interplay of light and shadow to emphasize volume and illustrate emotion*
+- *the interplay of light and shadow to emphasize volume and illustrate emotion*
 
 ---
+
+## A Modern Dark Theme for Visual Studio 2022
 
 > Coding in *Chiaroscuro*. . .
 
