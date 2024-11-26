@@ -46,7 +46,7 @@
 > 1. Download the project from GitHub
 > 2. Build the solution in VS2022
 > 3. Open the VSIX file with Microsoft Visual Studio Version Selector (Right click > Open With)
-> - Activate the theme within Visual Studio (Tools > Theme > {Theme Name})
+> 4. Activate the theme within Visual Studio (Tools > Theme > {Theme Name})
 
 ##### Forced Update
 
