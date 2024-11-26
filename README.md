@@ -10,13 +10,11 @@
 
 #### Efficient and Elegant
 
-- There's **undeniable beauty** in *simplicity* - let *Chiaroscuro* help you **concentrate** on what matters most
-  - With its *modest visuals*, *Chiaroscuro* efficiently improves **focus** and **comfort** during those longer sessions
+- There's **undeniable beauty** in *simplicity*
 
 #### Modest Design, Maximum Clarity
 
-- **No chaos, just clarity**
-  - The color palette is tediously hand-picked in order to *reduce visual noise* and strike a balance between **clarity** and **simplicity**
+- The color palette is *tediously hand-picked* with **love** using the SDK Color Editor
 
 ---
 
