@@ -2,7 +2,11 @@
 
 ## ⚪ A Modern Thematic Suite ⚫
 
-***Chiaroscuro** - the interplay of light and shadow to emphasize volume and emotion.*
+***Chiaroscuro** - the interplay of light and shadow to emphasize volume and emotion*
+
+---
+
+![Main Window Preview](./ChiaroscuroPreview01.jpg)
 
 ---
 
@@ -22,7 +26,7 @@
 
 ### Current Features
 
-- ***A free, eye-friendly dark theme** designed to enhance your coding experience.*
+- ***A free, eye-friendly dark theme** designed to enhance your coding experience*
 
 ### Planned
 
@@ -33,15 +37,11 @@
 
 ---
 
-![Developer Window](./ChiaroscuroPreview01.jpg)
-
----
-
 #### ⚪ Installation ⚫
 
-1. **Download** the VSIX file from the Visual Studio Marketplace.
-2. **Double-click** the VSIX file to install the theme.
-3. **Activate** the theme by going to **Tools > Options > Environment > General** and selecting "Chiaroscuro" from the "Color theme" dropdown menu.
+1. **Download** the VSIX file from the Visual Studio Marketplace
+2. **Double-click** the VSIX file to install the theme
+3. **Activate** the theme by going to **Tools > Options > Environment > General** and selecting "Chiaroscuro" from the "Color theme" dropdown menu
 
 ---
 
