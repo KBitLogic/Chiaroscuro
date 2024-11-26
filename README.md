@@ -18,6 +18,8 @@ The journey to conquer every single color token has just begun. . .
 
 ![Developer Window Preview](./ChiaroscuroPreview01.jpg)
 
+> Enhance your environment. Work in comfort.
+
 ---
 
 ### Features
@@ -68,6 +70,8 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 > *Elegance. Efficiency. There's beauty in simplicity.*
 
 ![Debug Mode Preview](./ChiaroscuroPreview03.jpg)
+
+> Lose yourself in the flow.
 
 ---
 
