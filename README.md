@@ -2,7 +2,7 @@
 
 ## A Modern Thematic Suite
 
-**Chiaroscuro** - *the use of light and shadow to emphasize volume and emotion*
+**Chiaroscuro** - *the interplay of light and shadow to emphasize volume and illustrate emotion*
 
 ---
 
