@@ -1,4 +1,4 @@
-﻿# ⚫ **Chiaroscuro** ⚪
+﻿# ⚫ *Chiaroscuro* ⚪
 
 ## ⚪ A Modern Thematic Suite ⚫
 
@@ -6,7 +6,7 @@
 
 ---
 
-### ⚫ Why Choose Chiaroscuro? ⚪
+### ⚫ Why Choose *Chiaroscuro*? ⚪
 
 #### Efficient and Elegant
 
