@@ -4,9 +4,9 @@
 
 ---
 
-## A Modern Dark Theme for Visual Studio 2022
+## An Open-Source Dark Theme for Visual Studio 2022
 
-My private Dark Mode theme is finally seeing the light of day!
+The primary goal I started this project with was to customize every single color token for Visual Studio. It might take me a minute.
 
 ---
 
