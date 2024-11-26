@@ -10,13 +10,13 @@
 
 #### Efficient and Elegant
 
-- There's **undeniable beauty in simplicity** - let *Chiaroscuro* help you **concentrate** on what matters most
-  - With its **modest visuals**, *Chiaroscuro* maximizes **comfort** and **efficiency**, helping you stay **focused** and **energized** for longer
+- There's **undeniable beauty** in *simplicity* - let *Chiaroscuro* help you **concentrate** on what matters most
+  - With its *modest visuals*, *Chiaroscuro* efficiently improves **focus** and **comfort** during those longer sessions
 
 #### Modest Design, Maximum Clarity
 
-- **No chaos, just clarity** - The editor window is designed to be **clean and intuitive**, allowing you to concentrate on your project
-  - **Reducing visual clutter** while maintaining valuable information, *Chiaroscuro* strikes a balance between **clarity** and **simplicity**
+- **No chaos, just clarity**
+  - The color palette is tediously hand-picked in order to *reduce visual noise* and strike a balance between **clarity** and **simplicity**
 
 ---
 
