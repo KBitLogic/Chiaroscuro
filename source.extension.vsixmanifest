@@ -4,6 +4,7 @@
         <Identity Id="Chiaroscuro.c67288ee-9381-4d9e-b688-a9a9f6a8b56c" Version="0.0.1" Language="en-US" Publisher="KBitLogic" />
         <DisplayName>Chiaroscuro</DisplayName>
         <Description xml:space="preserve">Embrace the Dark Mode. You will forget time even exists during your long coding sessions. Inspired by the artistic technique of chiaroscuro, this extension aims to provide deep contrasts without straining the eyes.</Description>
+        <MoreInfo>https://github.com/KBitLogic/Chiaroscuro</MoreInfo>
         <License>UNLICENSE</License>
         <GettingStartedGuide>README.md</GettingStartedGuide>
         <ReleaseNotes>CHANGELOG.md</ReleaseNotes>
