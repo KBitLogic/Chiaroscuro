@@ -24,7 +24,7 @@ My private Dark Mode theme is finally seeing the light of day!
 
 #### Current
 
-- A basic WIP **Dark Mode theme** to build upon
+- A foundational theme to build upon
 
 #### Planned
 
@@ -73,7 +73,7 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 #### Community & Contributions
 
-##### Do you have feedback or suggestions for *Chiaroscuro*? Please, join the conversation or submit a pull request here on GitHub
+##### Do you have feedback or suggestions for *Chiaroscuro*? Please, join the conversation!
 
 ---
 
