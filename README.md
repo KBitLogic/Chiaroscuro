@@ -55,6 +55,12 @@
 > 3. Install updated VSIX via instructions above
 > 4. Activate theme via instructions above
 
+##### Default Location
+
+```
+Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions\{Chiaroscuro}
+```
+
 ---
 
 ![Preview Placeholder Alt Text](./ChiaroscuroPreview01.jpg)
