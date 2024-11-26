@@ -16,7 +16,7 @@
 #### Modest Design, Maximum Clarity
 
 - **No chaos, just clarity** - The editor window is designed to be **clean and intuitive**, allowing you to concentrate on your project
-  - **Reducing visual clutter** while maintaining valuable information,*Chiaroscuro* strikes a balance between **clarity** and **simplicity**
+  - **Reducing visual clutter** while maintaining valuable information, *Chiaroscuro* strikes a balance between **clarity** and **simplicity**
 
 ---
 
