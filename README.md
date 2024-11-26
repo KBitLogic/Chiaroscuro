@@ -10,13 +10,13 @@
 
 #### Efficient and Elegant
 
-- There's **undeniable beauty in simplicity** - let ***Chiaroscuro*** help you **focus on what matters most**
-  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency,** helping you to stay **focused** and **energized** for those longer coding sessions
+- There's **undeniable beauty in simplicity** - let *Chiaroscuro* help you **focus** on what matters most
+  - With its **modest visuals, *Chiaroscuro*** maximizes **comfort** and **efficiency**, helping you stay **focused** and **energized** for longer
 
 #### Modest Design, Maximum Clarity
 
-- **No chaos, just clarity** - The editor window is designed to be **clean and intuitive,** allowing you to concentrate on your code
-  - **Reduced visual clutter** while maintaining valuable information, striking a balance between **clarity** and **simplicity**
+- **No chaos, just clarity** - The editor window is designed to be **clean and intuitive**, allowing you to concentrate on your project
+  - **Reducing visual clutter** while maintaining valuable information,*Chiaroscuro* strikes a balance between **clarity** and **simplicity**
 
 ---
 
@@ -34,12 +34,12 @@
 
 #### Planned
 
-- **Updates** to the *Main Theme*
+- **Updates** to the *Main Dark Mode Theme*
 
 #### Backlog
 
 - **More** themes!
-  - **Light** Mode
+  - **Light**-ish Mode for Light Mode Converts
   - **High Contrast** Modes
   - **Accessibility** for Vision-Impaired
 
@@ -75,7 +75,7 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 
 ##### Community & Contributions
 
-Have feedback or suggestions for *Chiaroscuro*? I would love to hear it.
+Do you have feedback or suggestions for ***Chiaroscuro***? I would love to hear it.
 Please, join the conversation or submit a pull request here on GitHub.
 
 ---
