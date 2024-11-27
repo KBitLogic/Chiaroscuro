@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/GitHub-KBitLogic-darkred?style=for-the-badge&logo=github&logoColor=darkred&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GitHub-KBitLogic-darkred?style=for-the-badge&logo=github&logoColor=darkred&labelColor=black) ![GitHub Release Date](https://img.shields.io/github/release-date-pre/kbitlogic/chiaroscuro?style=for-the-badge&labelColor=black&color=darkred)
  
  # ⚫ *Chiaroscuro* ⚪
 
