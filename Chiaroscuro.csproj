@@ -66,9 +66,10 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="CHANGELOG.md">
+    <Content Include="CHANGELOG.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Chiaroscuro.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
@@ -85,9 +86,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <None Include="README.md">
+    <Content Include="README.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="ChiaroscuroPreview02.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
