@@ -17,6 +17,6 @@
 
 ---
 
-##### *"Art is the queen of all sciences communicating knowledge to all the generations of the world."* - Leonardo da Vinci
+##### Join the Coversation [@GitHub/Chiaroscuro](https://github.com/KBitLogic/Chiaroscuro/discussions)
 
-###### From KBitLogic, With Love ❤️
+###### *"Art is the queen of all sciences communicating knowledge to all the generations of the world."* - Leonardo da Vinci
