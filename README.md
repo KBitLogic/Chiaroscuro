@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/GitHub-KBitLogic-darkred?style=for-the-badge&logo=github&logoColor=darkred&labelColor=black) ![GitHub Release Date](https://img.shields.io/github/release-date/kbitlogic/chiaroscuro?style=for-the-badge&label=v0.0.1&labelColor=black&color=darkred) ![GitHub Release Date](https://img.shields.io/github/release-date-pre/kbitlogic/chiaroscuro?style=for-the-badge&label=v0.0.2a&labelColor=black&color=darkred)
+![Static Badge](https://img.shields.io/badge/GitHub-KBitLogic-darkred?style=for-the-badge&logo=github&logoColor=darkred&labelColor=black) ![GitHub Release Date](https://img.shields.io/github/release-date/kbitlogic/chiaroscuro?style=for-the-badge&label=MASTER&labelColor=black&color=darkred) ![GitHub Release Date](https://img.shields.io/github/release-date-pre/kbitlogic/chiaroscuro?style=for-the-badge&label=ALPHA&labelColor=black&color=darkred)
  
  # ⚫ *Chiaroscuro* ⚪
 
