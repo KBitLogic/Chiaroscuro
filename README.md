@@ -1,4 +1,6 @@
-﻿# ⚫ *Chiaroscuro* ⚪
+![Static Badge](https://img.shields.io/badge/GitHub-KBitLogic-darkred?style=for-the-badge&logo=github&logoColor=darkred&labelColor=black)
+ 
+ # ⚫ *Chiaroscuro* ⚪
 
 *The use of light and shadow to emphasize volume and illustrate emotion*.
 
@@ -78,8 +80,6 @@ Root:\Users\{username}\AppData\Local\Microsoft\VisualStudio\{version}\Extensions
 #### Community & Contributions
 
 ##### Do you have feedback or suggestions for *Chiaroscuro*? Please, join the conversation!
-
-![Static Badge](https://img.shields.io/badge/GitHub-KBitLogic-darkred?style=for-the-badge&logo=github&logoColor=darkred&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fkbitlogic)
 
 ---
 
