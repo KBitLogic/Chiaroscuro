@@ -2,6 +2,11 @@
 
 ## All notable changes will be documented in this file
 
+### 2024-11-27
+
+#### v0.0.2-alpha
+- Preparing to upload this extension to the Visual Studio Marketplace
+
 ### 2024-11-26
 
 #### v0.0.1
@@ -12,6 +17,6 @@
 
 ---
 
-##### "Art is the queen of all sciences communicating knowledge to all the generations of the world." - Leonardo da Vinci
+##### *"Art is the queen of all sciences communicating knowledge to all the generations of the world."* - Leonardo da Vinci
 
 ###### From KBitLogic, With Love ❤️
