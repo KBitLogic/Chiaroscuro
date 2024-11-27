@@ -4,6 +4,14 @@
 
 ### 2024-11-27
 
+#### v0.0.3
+
+- Added new color tokens to the pkgdef file, currently set to a default color
+
+#### v0.0.2
+
+- Successfully uploaded to the Visual Studio Marketplace
+
 #### v0.0.2-alpha
 - Preparing to upload this extension to the Visual Studio Marketplace
 
