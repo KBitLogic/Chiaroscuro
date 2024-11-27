@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Chiaroscuro" GUID="{c67288ee-9381-4d9e-b688-a9a9f6a8b56c}">
+  <Theme Name="Chiaroscuro" GUID="{1B2ED11A-FDA6-4719-A98A-5A67448F8824}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF111111" />
